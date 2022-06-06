@@ -1,0 +1,27 @@
+.left-panel {
+    height: 100vh;
+    background-color: #2867af !important;
+    max-width: 47px !important;
+    min-width: 47px !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+  }  
+  .tab-icons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-right: 4px solid rgb(208, 243, 7);
+    height: 50px;
+    justify-content: center;
+    background-color: #1c33b1;
+    margin: 1px 0px 0px 0px;
+  }
+  .option-clicked {
+    border-right: 2px solid black !important;
+    background-color: #5767b8 !important;
+    height: 50px;
+    justify-content: center;
+  }

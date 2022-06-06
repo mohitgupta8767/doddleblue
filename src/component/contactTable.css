@@ -1,0 +1,47 @@
+.container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 12%;
+}
+
+.selectedRow {
+    background-color: #eaeeef;
+}
+
+.mar-0 {
+    margin: 0;
+    padding: 0;
+}
+
+.ant-table-thead>tr>th {
+    background-color: skyblue !important;
+}
+
+.sideModal {
+    margin-top: 30px;
+}
+
+.detailed-name {
+    font-size: 25px;
+}
+
+.button {
+    background-color: #3fb3df !important;
+    /* margin-left: 2.5%; */
+    width: 80px;
+    border-radius: 5px !important;
+    cursor: pointer;
+    color: white !important;
+}
+
+.header-container {
+    background-Color: "#2867af" !important;
+    height: "47px" !important;
+}
+
+.input-search {
+    width: "20rem";
+    margin-right: "1%";
+    margin-left: "1%";
+    border-radius: "10px";
+}
